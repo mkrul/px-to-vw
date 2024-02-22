@@ -1,5 +1,5 @@
 # PX to VW converter
-Converts vh to vw inside of a css stylesheet
+Converts px to vw inside of a css stylesheet
 
 ## Instructions
 1) Clone this repo
