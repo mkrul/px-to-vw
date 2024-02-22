@@ -1,4 +1,4 @@
-# VH to VW converter
+# PX to VW converter
 Converts vh to vw inside of a css stylesheet
 
 ## Instructions
