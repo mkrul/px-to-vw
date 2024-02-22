@@ -7,6 +7,6 @@ Converts px to vw inside of a css stylesheet
 3) Double click the `index.html` file to open it in the browser
 4) Enter the viewport width in pixels
 5) Choose the index.css file to import
-6) Paste the output that appear below wherever you need to
+6) Copy and paste the output that appear below wherever you need to
 7) ????
 8) Profit
