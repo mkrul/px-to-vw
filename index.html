@@ -1,0 +1,34 @@
+
+<ol>
+  <li>Enter a viewport width in pixels</li>
+  <li>Choose a css file to import</li>
+  <li>Copy and paste the output below into your old css document</li>
+  <li>????</li>
+  <li>Profit</li>
+</ol>
+<div>
+  <label>Viewport width:</label>
+  <input type="textbox" name="viewportwidth" id="viewportwidth" />
+</div>
+<br />
+<div>
+  <input type="file" name="inputfile" id="inputfile" />
+</div>
+<br />
+<div>
+  <button id="copy" onClick="copyToClipboard()">Copy</button>
+</div>
+<br />
+<div>
+  <button id="reset" type="button">Reset</button>
+</div>
+<br />
+<small>
+  <div style="color: red">
+    Note: If you do not enter a viewport width, the program will run
+    calculations based on the inner width of your browser window.
+  </div>
+</small>
+<hr />
+<pre id="file"></pre>
+<script src="index.js"></script>
